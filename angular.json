@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "lylch0102": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lylch0102"
+    }
+  },
+  "defaultProject": "lylch0102",
+  "cli": {
+    "analytics": "0f29f495-bd27-40bc-b69b-49aff0050fee"
+  }
 }
